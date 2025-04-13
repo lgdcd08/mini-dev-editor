@@ -1,0 +1,22 @@
+{
+  "name": "mini-dev-editor",
+  "version": "1.0.0",
+  "description": "Mini editor de codigo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgdcd08/mini-dev-editor.git"
+  },
+  "author": "Luiz Gustavo de Carvalho Dagnese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgdcd08/mini-dev-editor/issues"
+  },
+  "homepage": "https://github.com/lgdcd08/mini-dev-editor#readme",
+  "devDependencies": {
+    "electron": "^35.1.5"
+  }
+}
